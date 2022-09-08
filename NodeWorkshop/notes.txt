@@ -1,0 +1,10 @@
+#node js modules
+#module types==> core, local, third party
+#core==default module in installation
+#local modules = = create by scratch acc to need
+#third party=npm commands
+
+#Create Package.json
+    >npm init --y
+install nodemon
+    >npm i nodemon -g
